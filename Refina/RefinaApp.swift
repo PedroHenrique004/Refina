@@ -9,7 +9,11 @@ import SwiftUI
 
 @main
 struct RefinaApp: App {
+    
+    
     var body: some Scene {
+
+        
         WindowGroup {
             ContentView()
         }
